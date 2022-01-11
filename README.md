@@ -1,0 +1,1 @@
+# configuraly-magento2
